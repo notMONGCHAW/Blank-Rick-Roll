@@ -36,6 +36,7 @@ body::before {
   content: "Never gonna give you up...";
 }
 
+
 body::after {
   margin-left: 16px;
   display: inline;
@@ -43,6 +44,7 @@ body::after {
   background: #ff4473;
   animation: blink 1s infinite;
 }
+
 
 @keyframes blink {
   from {
