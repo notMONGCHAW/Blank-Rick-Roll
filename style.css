@@ -8,12 +8,14 @@ html {
   background: #222;
 }
 
+
 body::before, body::after {
   font-weight: bold;
   font-family: 'SF Mono', 'Courier New', Courier, monospace;
   font-size: 42px;
   color: #ff4473;
 }
+
 
 head { 
   display: block;
@@ -26,6 +28,7 @@ head {
   border-radius: 10px;
   border-style: dashed;
 }
+
 
 body::before {
   display: inline-block;
